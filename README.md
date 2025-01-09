@@ -1,5 +1,5 @@
 # Minimum Viable Product syst
-github link = <a href="https://github.com/adarsh155/MVP.git" > view project</a>
+
 <p>  The basic concept of this project Minimum Viable Product management is to collect unused product from donors such as and as per the product condition the dispose,donate or recycle work will be done .</p>
 <h2>Tools and Technologies</h2> 
 <ul>
@@ -33,7 +33,7 @@ github link = <a href="https://github.com/adarsh155/MVP.git" > view project</a>
        <li>Import demo.sql file(inside database folder)</li>
        <li> Run the script http://localhost/folderName </li> </ol>
 
-<h2>view project :</h2>
 
-<a href="https://github.com/adarsh155/MVP.git" > view project</a>
+
+
 
